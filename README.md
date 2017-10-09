@@ -1,4 +1,5 @@
 # PythonUberHDL
+## "Python over HDL"
 Python Jupyter Notebooks and FPGA designs showcasing what myHDL can do over traditional Verilog or VHDL
 
 Three Major usages of traditional HDL will be explored in a textbook style using Jupyter Notebooks and other learning materials to show how with
